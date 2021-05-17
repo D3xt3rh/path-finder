@@ -1,4 +1,4 @@
-# A-star-Pathfinder
+# Searching Algorithm
 A* Pathfinder algorithm. Visualizations.
 
 1. Clone repository.
